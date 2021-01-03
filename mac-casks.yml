@@ -1,0 +1,31 @@
+---
+- hosts: macbook
+  tasks:
+    - name: install homebrew casks
+      # homebrew 2.7.0 breaks brew cask install.
+      # https://github.com/Homebrew/discussions/discussions/340
+      # Until this is fixed, use brew install --cask
+      # The following fix is in the works:
+      # https://github.com/ansible-collections/community.general/issues/1524
+      homebrew_cask:
+        name:
+          [
+            "brave-browser",
+            "docker",
+            "firefox",
+            "google-chrome",
+            "intel-power-gadget",
+            "iterm2",
+            "kindle",
+            "macpass",
+            "messenger",
+            "postman",
+            "rectangle",
+            "signal",
+            "slack",
+            "spotify",
+            "sublime-text",
+            "visual-studio-code",
+            "zoom",
+          ]
+        state: present

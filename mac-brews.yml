@@ -1,0 +1,23 @@
+---
+- hosts: macbook
+  tasks:
+    - name: install homebrew packages
+      homebrew:
+        name:
+          [
+            "bat",
+            "cmake",
+            "coreutils",
+            "dust",
+            "exa",
+            "fd",
+            "jq",
+            "neovim",
+            "ninja",
+            "p7zip",
+            "python3",
+            "ripgrep",
+            "sd",
+            "tokei",
+          ]
+        state: present

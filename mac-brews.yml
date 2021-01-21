@@ -13,6 +13,7 @@
             "fd",
             "gawk",
             "jq",
+            "libdvdcss",
             "neovim",
             "ninja",
             "p7zip",

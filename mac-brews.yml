@@ -24,6 +24,7 @@
             "ripgrep",
             "rsync",
             "sd",
+            "swiftformat",
             "tokei",
           ]
         state: present

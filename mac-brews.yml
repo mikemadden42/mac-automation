@@ -6,6 +6,7 @@
         name:
           [
             "bat",
+            "bash",
             "cmake",
             "coreutils",
             "dust",
@@ -24,6 +25,7 @@
             "ripgrep",
             "rsync",
             "sd",
+            "silicon",
             "swiftformat",
             "tokei",
           ]

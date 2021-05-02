@@ -5,6 +5,7 @@
       homebrew:
         name:
           [
+            "ansifilter",
             "bat",
             "bash",
             "cmake",
@@ -29,5 +30,6 @@
             "silicon",
             "swiftformat",
             "tokei",
+            "watch",
           ]
         state: present

@@ -3,20 +3,19 @@
   tasks:
     - name: install homebrew casks
       homebrew_cask:
-        name:
-          [
+        name: [
             "brave-browser",
-            "docker",
+            # "docker",
             "firefox",
-            "goland",
-            "google-chrome",
+            # "goland",
+            # "google-chrome",
             "handbrake",
-            "intel-power-gadget",
+            # "intel-power-gadget",
             "iterm2",
             "kindle",
             "macpass",
             "messenger",
-            "postman",
+            # "postman",
             "rectangle",
             "signal",
             "slack",

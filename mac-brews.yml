@@ -6,8 +6,10 @@
         name:
           [
             "ansifilter",
-            "bat",
+            "atk",
             "bash",
+            "bat",
+            "cairo",
             "cmake",
             "coreutils",
             "dust",
@@ -15,6 +17,7 @@
             "fd",
             "gawk",
             "gotop",
+            "gtk+3",
             "htop",
             "iperf3",
             "jdupes",

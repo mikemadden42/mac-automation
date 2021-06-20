@@ -15,6 +15,7 @@
             "dust",
             "exa",
             "fd",
+            "ffmpeg",
             "gawk",
             "gotop",
             "gtk+3",
@@ -35,5 +36,6 @@
             "swiftformat",
             "tokei",
             "watch",
+            "youtube-dl",
           ]
         state: present

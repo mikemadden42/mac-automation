@@ -1,0 +1,46 @@
+---
+- hosts: macbook
+  tasks:
+    - name: install homebrew packages
+      homebrew:
+        name:
+          [
+            "bash",
+            "bat",
+            "broot",
+            "cheat",
+            "choose-rust",
+            "cmake",
+            "coreutils",
+            "dog",
+            "dust",
+            "exa",
+            "fd",
+            "fzf",
+            "gawk",
+            "git-delta",
+            "go",
+            "gotop",
+            "gping",
+            "htop",
+            "hyperfine",
+            "iperf3",
+            "jdupes",
+            "jq",
+            "lsd",
+            "neovim",
+            "ninja",
+            "nmap",
+            "p7zip",
+            "procs",
+            "python3",
+            "ripgrep",
+            "rsync",
+            "sd",
+            "silicon",
+            "swiftformat",
+            "tealdeer",
+            "tokei",
+            "watch",
+          ]
+        state: present

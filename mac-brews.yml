@@ -35,6 +35,7 @@
             "libdvdcss",
             "lsd",
             "neovim",
+            "nim",
             "ninja",
             "nmap",
             "p7zip",
@@ -49,5 +50,6 @@
             "tokei",
             "watch",
             "youtube-dl",
+            "yt-dlp",
           ]
         state: present

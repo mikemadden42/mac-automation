@@ -5,6 +5,8 @@
       homebrew:
         name:
           [
+            "ag",
+            "ansifilter",
             "bash",
             "bat",
             "broot",
@@ -27,6 +29,7 @@
             "iperf3",
             "jdupes",
             "jq",
+            "libdvdcss",
             "lsd",
             "neovim",
             "nim",

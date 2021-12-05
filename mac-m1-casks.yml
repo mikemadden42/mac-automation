@@ -5,7 +5,7 @@
       homebrew_cask:
         name: [
           "brave-browser",
-          # "docker",
+          "docker",
           # "firefox",
           # "goland",
           "google-chrome",

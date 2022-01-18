@@ -19,7 +19,7 @@
           "messenger",
           "postman",
           "rectangle",
-          "signal",
+          # "signal",
           "slack",
           "spotify",
           "sublime-text",

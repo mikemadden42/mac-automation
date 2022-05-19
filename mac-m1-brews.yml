@@ -45,9 +45,11 @@
             "sd",
             "silicon",
             "swiftformat",
+            "swiftlint",
             "tealdeer",
             "tokei",
             "watch",
+            "xcodegen",
             "youtube-dl",
             "yt-dlp",
           ]

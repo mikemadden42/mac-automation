@@ -10,6 +10,8 @@
             "bash",
             "bat",
             "broot",
+            "cargo-edit",
+            "cargo-outdated",
             "cheat",
             "choose-rust",
             "clang-format",

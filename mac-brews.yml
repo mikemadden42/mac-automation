@@ -12,6 +12,8 @@
             "bat",
             "broot",
             "cairo",
+            "cargo-edit",
+            "cargo-outdated",
             "cheat",
             "choose-rust",
             "clang-format",

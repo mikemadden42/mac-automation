@@ -27,6 +27,7 @@
           "spotify",
           "sublime-text",
           "visual-studio-code",
+          "wireshark",
           "zoom",
         ]
         state: present

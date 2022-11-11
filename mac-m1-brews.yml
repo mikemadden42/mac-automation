@@ -41,6 +41,7 @@
             "nim",
             "ninja",
             "nmap",
+            "node",
             "p7zip",
             "procs",
             "python3",
@@ -54,6 +55,7 @@
             "tokei",
             "watch",
             "xcodegen",
+            "yarn",
             "youtube-dl",
             "yt-dlp",
           ]

@@ -53,6 +53,7 @@
             "swiftlint",
             "tealdeer",
             "tokei",
+            "tree",
             "watch",
             "xcodegen",
             "yarn",

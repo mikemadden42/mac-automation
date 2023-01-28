@@ -3,6 +3,6 @@ localhost
 
 [macbook:vars]
 # arm64 macs
-ansible_python_interpreter=/opt/homebrew/bin/python3
+# ansible_python_interpreter=/opt/homebrew/bin/python3
 # intel macs
-# ansible_python_interpreter=/usr/local/bin/python3
+ansible_python_interpreter=/usr/local/bin/python3

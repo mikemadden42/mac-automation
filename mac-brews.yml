@@ -9,6 +9,8 @@
             "ansifilter",
             "arp-scan",
             "atk",
+            "autoconf",
+            "automake",
             "bash",
             "bat",
             "broot",

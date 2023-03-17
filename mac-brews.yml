@@ -54,6 +54,7 @@
             "readline",
             "ripgrep",
             "rsync",
+            "ruff",
             "sd",
             "silicon",
             "sqlite",

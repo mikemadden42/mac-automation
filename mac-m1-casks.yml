@@ -28,6 +28,7 @@
           "sublime-text",
           "visual-studio-code",
           "wireshark",
+          "yubico-yubikey-manager",
           "zoom",
         ]
         state: present

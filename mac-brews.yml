@@ -3,8 +3,7 @@
   tasks:
     - name: install homebrew packages
       homebrew:
-        name:
-          [
+        name: [
             "ag",
             "ansifilter",
             "arp-scan",
@@ -13,6 +12,7 @@
             "automake",
             "bash",
             "bat",
+            "bottom",
             "broot",
             "cairo",
             "cargo-edit",
@@ -27,6 +27,7 @@
             "dust",
             "exa",
             "fd",
+            "fend",
             "ffmpeg",
             "fzf",
             "gawk",

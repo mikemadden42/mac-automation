@@ -50,6 +50,7 @@
             "node",
             "openssl",
             "p7zip",
+            "poetry",
             "procs",
             "python3",
             "readline",

@@ -43,6 +43,7 @@
             "jq",
             "libdvdcss",
             "lsd",
+            "ncdu",
             "neovim",
             "nim",
             "ninja",

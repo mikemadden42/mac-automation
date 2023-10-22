@@ -16,6 +16,7 @@
             "broot",
             "btop",
             "cairo",
+            "cargo-audit",
             "cargo-edit",
             "cargo-outdated",
             "cheat",

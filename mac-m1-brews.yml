@@ -15,6 +15,7 @@
             "bottom",
             "broot",
             "btop",
+            "cargo-audit",
             "cargo-edit",
             "cargo-outdated",
             "cheat",

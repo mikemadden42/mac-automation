@@ -19,6 +19,7 @@
             "cargo-edit",
             "cargo-outdated",
             "cheat",
+            "cherrytree",
             "choose-rust",
             "clang-format",
             "clinfo",

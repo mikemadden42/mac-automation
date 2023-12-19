@@ -51,6 +51,7 @@
             "ninja",
             "nmap",
             "node",
+            "ollama",
             "openssl",
             "p7zip",
             "poetry",

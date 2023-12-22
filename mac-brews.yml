@@ -27,6 +27,7 @@
             "cmake",
             "coreutils",
             "dog",
+            "dua-cli",
             "dust",
             "exa",
             "fd",

@@ -65,6 +65,7 @@
             "rsync",
             "ruff",
             "sd",
+            "shellcheck",
             "silicon",
             "sqlite",
             "swiftformat",

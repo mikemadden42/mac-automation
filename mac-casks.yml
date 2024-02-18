@@ -30,7 +30,8 @@
           "tor-browser",
           "visual-studio-code",
           "wireshark",
-          "yubico-yubikey-manager",
+          "yubico-authenticator",
+          # "yubico-yubikey-manager",
           "zoom",
         ]
         state: present

@@ -30,7 +30,7 @@
           "visual-studio-code",
           "wireshark",
           "yubico-authenticator",
-          # "yubico-yubikey-manager",
+          "yubico-yubikey-manager",
           "zoom",
         ]
         state: present

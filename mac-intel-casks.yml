@@ -3,7 +3,8 @@
   tasks:
     - name: install homebrew casks
       homebrew_cask:
-        name: [
+        name:
+          [
             "alacritty",
             "brave-browser",
             "docker",

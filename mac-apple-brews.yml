@@ -37,6 +37,7 @@
             "jq",
             "libdvdcss",
             "ncdu",
+            "neovim",
             "ninja",
             "nmap",
             "openssl",

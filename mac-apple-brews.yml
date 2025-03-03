@@ -16,6 +16,7 @@
             "btop",
             "cargo-audit",
             "cargo-edit",
+            "cargo-msrv",
             "cargo-outdated",
             "clang-format",
             "clinfo",

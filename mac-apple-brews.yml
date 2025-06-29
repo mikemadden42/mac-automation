@@ -60,6 +60,7 @@
             "swiftlint",
             "tokei",
             "tree",
+            "uv",
             "watch",
             "xcodegen",
             "xz",

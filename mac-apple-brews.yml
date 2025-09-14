@@ -23,6 +23,7 @@
             "cmake",
             "coreutils",
             "dust",
+            "dysk",
             "fastfetch",
             "fd",
             "fend",

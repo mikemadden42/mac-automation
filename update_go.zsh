@@ -16,7 +16,7 @@ projects=(
 	github.com/dimkouv/massivedl/cmd/massivedl
 	github.com/dundee/gdu
 	github.com/elastic/go-licenser
-	github.com/go-task/task
+	github.com/go-task/task/v3/cmd/task
 	github.com/goreleaser/goreleaser/v2
 	github.com/hhatto/gocloc/cmd/gocloc
 	github.com/icholy/gomajor

@@ -41,6 +41,7 @@
             "jq",
             "libdvdcss",
             "markdownlint-cli2",
+            "masscan",
             "ncdu",
             "neovim",
             "ninja",

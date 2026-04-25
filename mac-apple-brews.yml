@@ -70,6 +70,7 @@
             "xz",
             "yarn",
             "yt-dlp",
+            "zig",
             "zlib",
           ]
         state: present

@@ -5,7 +5,6 @@
       homebrew:
         name:
           [
-            "ag",
             "ansifilter",
             "arp-scan",
             "autoconf",
@@ -35,7 +34,6 @@
             "gemini-cli",
             "git-delta",
             "go",
-            "gotop",
             "gping",
             "helix",
             "htop",
@@ -76,3 +74,12 @@
             "zlib",
           ]
         state: present
+
+    - name: remove EOL/unmaintained homebrew packages
+      homebrew:
+        name:
+          [
+            "ag",
+            "gotop",
+          ]
+        state: absent

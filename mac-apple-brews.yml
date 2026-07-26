@@ -22,6 +22,7 @@
             "clinfo",
             "cmake",
             "coreutils",
+            "dua-cli",
             "dust",
             "dysk",
             "fastfetch",

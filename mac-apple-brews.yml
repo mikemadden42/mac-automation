@@ -48,7 +48,6 @@
             "nmap",
             "node",
             "openssl",
-            "p7zip",
             "pillow",
             "poetry",
             "python3",
@@ -58,6 +57,7 @@
             "rsync",
             "ruff",
             "sd",
+            "sevenzip",
             "shellcheck",
             "sqlite",
             "swiftformat",
@@ -81,5 +81,6 @@
           [
             "ag",
             "gotop",
+            "p7zip",
           ]
         state: absent

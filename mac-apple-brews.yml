@@ -84,3 +84,15 @@
             "p7zip",
           ]
         state: absent
+
+    - name: detect homebrew prefix
+      command: brew --prefix
+      register: brew_prefix
+      changed_when: false
+
+    - name: symlink 7z -> 7zz for sevenzip compatibility
+      file:
+        src: "{{ brew_prefix.stdout }}/bin/7zz"
+        dest: "{{ brew_prefix.stdout }}/bin/7z"
+        state: link
+        force: true
